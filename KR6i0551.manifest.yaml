@@ -46,9 +46,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0551_000.yaml, hash: 'sha256:751bbaa84bf36470e720b8b2a6ed0694e53abda848dc036c70da342624fa0d07'}
-  - {seq: 1, filename: KR6i0551_001.yaml, hash: 'sha256:bda1be235d453bdfff309861e9488074669add59f63f3bf5376e1b0d005c257a'}
+  - {seq: 1, filename: KR6i0551_001.yaml, hash: 'sha256:23cbed5e52c053258805b7b895890531ad9133e34849a8504d301c2cba92d74a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0551_001.markers.yaml, hash: 'sha256:167b9572702fe73bb35978540e692c4a80d18d883c7f4d16175607884731ac36'}
+  - {seq: 0, role: markers, filename: assets/KR6i0551_000.markers.yaml, hash: 'sha256:71a32da26c7315e2f6ff6f6ae4f59e37c78c7064d28a7a5807b03561db938ffb'}
+  - {seq: 1, role: markers, filename: assets/KR6i0551_001.markers.yaml, hash: 'sha256:9c91bb595657bea8c4c578fa57d61678eb02275a81cce641a465a418eb826468'}
 table_of_contents:
 - ref:
     seq: 1
@@ -60,7 +61,4 @@ table_of_contents:
   label: 大方廣圓覺修多羅了義經
   type: juan
   level: 1
-hash: sha256:c82eb12bb9d037ffaa3213e64c50d3b030797c9e2359f1407b5c20e1137f1709
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d1fcf93e352421be22362923668798e66e8a843adf2698e813710a56deb6d141
